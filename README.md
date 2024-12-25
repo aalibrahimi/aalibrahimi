@@ -1,8 +1,9 @@
 # Hello, I'm Ali Alibrahimi 👋
+
 ### UI/UX Designer & Frontend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Creating+beautiful+digital+experiences;Frontend+Developer+%7C+UI%2FUX+Designer;Turning+ideas+into+pixel-perfect+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Creating+beautiful+digital+experiences;Frontend+Developer+and+UI%2FUX+Designer;Turning+ideas+into+pixel-perfect+reality" alt="Typing SVG" />
 </div>
 
 ## About Me 🎨
@@ -51,8 +52,6 @@ I believe in:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://aalibrahimi.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aalibrahimi)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourusername)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yourusername)
 
 </div>
 
@@ -60,6 +59,6 @@ I believe in:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=aalibrahimi&color=blueviolet)
 
 </div>
