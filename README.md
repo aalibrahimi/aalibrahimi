@@ -34,15 +34,6 @@ I'm passionate about creating intuitive and visually stunning digital experience
 
 </div>
 
-## Featured Projects 🌟
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
-
-</div>
-
 ## My Design Philosophy 💭
 
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
