@@ -66,3 +66,5 @@ I believe in:
 ![Profile Views](https://komarev.com/ghpvc/?username=aalibrahimi&color=blueviolet)
 
 </div>
+<script src="profile-enhancements.js"></script>
+<link rel="stylesheet" href="profile-styles.css">
