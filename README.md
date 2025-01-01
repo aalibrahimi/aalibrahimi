@@ -5,6 +5,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Creating+beautiful+digital+experiences;Frontend+Developer+and+UI%2FUX+Designer;Turning+ideas+into+pixel-perfect+reality" alt="Typing SVG" />
 </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+</p>
+
 
 ## About Me 🎨
 
