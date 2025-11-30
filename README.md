@@ -1,6 +1,6 @@
 # Hello, I'm Ali Alibrahimi 👋
 
-### UI/UX Designer & Frontend Developer
+### UI/UX Designer & Senior Full-Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Creating+beautiful+digital+experiences;Frontend+Developer+and+UI%2FUX+Designer;Turning+ideas+into+pixel-perfect+reality" alt="Typing SVG" />
