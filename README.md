@@ -13,8 +13,11 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=aalibrahimi&show_icons=true&hide_rank=true&include_all_commits=true&icon_color=a78bfa&bg_color=0d1117&border_color=30363d&title_color=60a5fa&text_color=a8b1bd&border_radius=10" height="170" alt="GitHub stats: stars, commits, pull requests, issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalibrahimi&layout=compact&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=60a5fa&text_color=a8b1bd&border_radius=10" height="170" alt="Most used languages" />
+<img src="soft/stat-repos.svg" width="32.6%" alt="60 public repos, on GitHub since 2024" />
+<img src="soft/stat-langs.svg" width="32.6%" alt="10 coding languages, TypeScript leads at 28 repos" />
+<img src="soft/stat-spoken.svg" width="32.6%" alt="3 spoken languages: English, Arabic, Spanish" />
+
+<img src="soft/langs.svg" width="100%" alt="Public repos by language: TypeScript 53%, JavaScript 17%, Python 9%, Rust 6%, CSS 6%, other 9%" />
 
 <img src="https://streak-stats.demolab.com?user=aalibrahimi&background=0d1117&border=30363d&stroke=30363d&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=a8b1bd&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=656d76&border_radius=10" width="100%" alt="GitHub contribution streak" />
 
