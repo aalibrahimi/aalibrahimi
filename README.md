@@ -1,137 +1,80 @@
-# Ali Alibrahimi
+<div align="center">
 
-### Founder & Full-Stack Engineer | Fintech Systems | AI-Integrated Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1020,50:1d4ed8,100:60a5fa&text=Ali%20Alibrahimi&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20San%20Jose%2C%20CA&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ali Alibrahimi, Software Engineer, San Jose CA" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=I+build+desktop%2C+web+and+mobile+apps.;TypeScript+first.+Rust+when+it+counts.;Local-first+tools+and+AI+agents+that+do+real+work." alt="I build desktop, web and mobile apps" />
 
-## About
+<a href="https://ali-portfolio-codewithali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aalibrahimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.codewithali.com"><img src="https://img.shields.io/badge/CodeWithAli-0b1020?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="CodeWithAli" /></a>
 
-Full-stack engineer and founder with 8+ years of self-directed development experience building production-grade fintech and SaaS systems.
+</div>
 
-Currently building **Simplicity**, an intention-first budgeting platform integrating Plaid (11,000+ institutions), Stripe payments, AI-driven insights, and cross-platform desktop support via Tauri.
+## ⚡ At a glance
 
-Previously built and deployed a multi-tenant SaaS platform with real-time collaboration, RBAC, and billing systems serving active concurrent users.
+- 🛠️ Full-stack engineer: React, Next.js, TypeScript, Supabase, Tauri
+- 🤖 Into MCP integrations and AI agent tooling
+- 🎓 Computer Science + Linguistics at San José State
+- 🦀 Currently learning Rust
+- 🌍 English · العربية · Español
 
-I specialize in building complete systems — from database design and API architecture to responsive UI and production deployment.
+## 🚀 What I'm building
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Current Focus: Simplicity (Fintech Platform)
+### 🎓 [Semester Command](https://github.com/aalibrahimi/semester-command)
+Local-first desktop app that pulls your Canvas coursework and tells you what to work on next.
 
-**Architecture Overview:**
+`Tauri` `React` `TypeScript`
 
-* Next.js frontend (App Router)
-* TypeScript end-to-end
-* Supabase (Postgres + Auth + Realtime)
-* Stripe subscriptions
-* Plaid financial aggregation
-* AI-powered financial insights (LLM integrations)
-* Desktop wrapper via Tauri (Rust)
+</td>
+<td width="50%" valign="top">
 
-**Key Engineering Challenges Solved:**
+### 📈 [Sentinel](https://github.com/aalibrahimi/Sentinal)
+Desktop stock monitor. Live market data, your own alert rules, native notifications, plain-language explanations.
 
-* Secure financial data ingestion and normalization
-* Multi-account transaction reconciliation
-* Idempotent webhook handling (Stripe + Plaid)
-* Role-based access & subscription gating
-* Real-time financial state synchronization
-* Desktop-native packaging with shared web codebase
+`Rust` `Alpaca` `Anthropic API`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🏗 Enterprise SaaS Platform (CodeWithAli)
+### 🌙 [SalahBond](https://github.com/aalibrahimi/SalahBond)
+iOS prayer companion: live prayer countdown, qadha tracking, and a buddy system for accountability.
 
-Designed and deployed a multi-tenant business management platform featuring:
+`Expo` `React Native` `TypeScript`
 
-* Real-time team messaging (WebSocket-based)
-* Employee scheduling system
-* Invoicing + billing workflows
-* Fine-grained RBAC
-* Tenant-isolated Postgres schemas
-* Concurrent active users with live updates
+</td>
+<td width="50%" valign="top">
 
-Architected for modular growth and maintainability.
+### 🤖 [Axon by Takeover](https://github.com/aalibrahimi/cwa_takeover)
+MCP-native agent runtime that carries out real actions across connected SaaS tools.
 
----
+`Next.js` `MCP` `Supabase`
 
-## 🧠 Technical Strengths
+</td>
+</tr>
+</table>
 
-### System Architecture
+🌐 **Client sites, live:** [Noir Detailing](https://noir-detailing.vercel.app) · [Iraqi Sweets](https://iraqi-sweets.vercel.app) · [CodeWithAli](https://www.codewithali.com)
 
-* End-to-end application design
-* Multi-tenant SaaS architecture
-* Financial data pipelines
-* Secure API integrations
-* Idempotent event-driven backend flows
+## 🧰 Stack
 
-### Frontend Engineering
+<div align="center">
 
-* Advanced React patterns
-* State modeling with Zustand
-* Server/Client component boundaries (Next.js)
-* UI systems with shadcn + Tailwind
-* Performance optimization & render strategy
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,tauri,rust,supabase,postgres,nodejs,py,vercel,git&perline=12" alt="TypeScript, React, Next.js, Tailwind, Tauri, Rust, Supabase, Postgres, Node.js, Python, Vercel, Git" />
 
-### Backend & Data
+</div>
 
-* Postgres schema design
-* Row-level security
-* API design & validation
-* Stripe webhook orchestration
-* Background processing patterns
+## 📊 Activity
 
-### Desktop Engineering
+<div align="center">
 
-* Tauri (Rust backend)
-* Shared codebase between web + desktop
-* Native build optimization
+<img src="https://streak-stats.demolab.com?user=aalibrahimi&background=0b1020&ring=1d4ed8&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&hide_border=true" alt="GitHub streak" />
 
----
+</div>
 
-## 📊 Product & Research Discipline
-
-* 1,000+ survey responses collected
-* 40+ structured user interviews
-* Iterative product validation cycles
-* Behavior-driven product development
-
----
-
-## 🛠 Tech Stack
-
-(TypeScript-first full-stack)
-
-Frontend:
-React · Next.js · Tailwind · shadcn/ui · Zustand
-
-Backend:
-Node.js · Supabase · PostgreSQL
-
-Integrations:
-Stripe · Plaid
-
-Desktop:
-Tauri · Rust
-
-Infrastructure:
-Vercel · Git · CI/CD pipelines
-
----
-
-## What I Care About
-
-* Systems that scale
-* Clean domain modeling
-* Product-market fit over feature bloat
-* Shipping consistently
-* Technical leverage
-
----
-
-## Connect
-
-Portfolio: [[[https://aalibrahimi.codewithali/MyPortfolio/](https://aalibrahimi.codewithali.com/)]]
-LinkedIn: [https://www.linkedin.com/in/aalibrahimi](https://www.linkedin.com/in/aalibrahimi)
-GitHub: [https://github.com/aalibrahimi](https://github.com/aalibrahimi)
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:60a5fa,50:1d4ed8,100:0b1020&section=footer" width="100%" alt="" />
