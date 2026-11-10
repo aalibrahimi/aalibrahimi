@@ -5,7 +5,7 @@
 .m{font:400 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#656d76}.s{font:400 14px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#9198a1}.l{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc}
 </style>
 <rect x=".5" y=".5" width="273" height="63" rx="10" fill="#0d1117" stroke="#30363d"/>
-<g transform="translate(20 22) scale(0.8333333333333334)" fill="none" stroke="#6ea8fe" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" />
+<g transform="translate(20 22) scale(0.8333333333333334)" fill="none" stroke="#a78bfa" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" />
   <rect width="20" height="14" x="2" y="6" rx="2" /></g><text x="52" y="30" class="l">LinkedIn</text><text x="52" y="48" class="m" style="font-size:12px">in/aalibrahimi</text><g transform="translate(236 23) scale(0.75)" fill="none" stroke="#656d76" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10" />
   <path d="M7 17 17 7" /></g>
 </svg>
