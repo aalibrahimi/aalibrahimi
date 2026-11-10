@@ -1,33 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 250" width="840" height="250" role="img" aria-label="Ali Alibrahimi, Software Engineer, San Jose CA">
-<defs>
-<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#060912"/></linearGradient>
-<linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#93c5fd"/><stop offset="1" stop-color="#ffffff"/><animate attributeName="x1" values="-1;1" dur="5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;2" dur="5s" repeatCount="indefinite"/></linearGradient>
-<linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset=".5" stop-color="#1e293b"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
-<radialGradient id="g1"><stop offset="0" stop-color="#2563eb" stop-opacity=".6"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
-<radialGradient id="g2"><stop offset="0" stop-color="#7c3aed" stop-opacity=".4"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
-<clipPath id="c"><rect x="1" y="1" width="838" height="248" rx="26"/></clipPath>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 214" width="840" height="214" role="img" aria-label="Ali Alibrahimi, software engineer, San Jose CA">
 <style>
-.h{font:800 58px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#n);letter-spacing:-1.5px}.r{font:500 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1}.c{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e2e8f0}
-.k{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#60a5fa;letter-spacing:2px}
-.o1{animation:a 9s ease-in-out infinite alternate}.o2{animation:b 11s ease-in-out infinite alternate}
-@keyframes a{to{transform:translate(-90px,40px)}}@keyframes b{to{transform:translate(80px,-30px)}}
-
+.h{font:700 46px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc;letter-spacing:-1.2px}.t{font:600 20px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc;letter-spacing:-.2px}
+.d{font:400 15px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#9198a1}.k{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#656d76;letter-spacing:1.6px}
+.m{font:400 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#656d76}.s{font:400 14px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#9198a1}.l{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc}
 </style>
-<rect x="1" y="1" width="838" height="248" rx="26" fill="url(#b)" stroke="url(#s)" stroke-width="1.5"/>
-<g clip-path="url(#c)"><circle class="o1" cx="720" cy="40" r="240" fill="url(#g1)"/><circle class="o2" cx="520" cy="260" r="200" fill="url(#g2)"/></g>
-<g transform="translate(42 40) scale(0.75)" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0" />
-  <circle cx="12" cy="10" r="3" /></g><text x="68" y="55" class="k dot">SAN JOSE, CA</text>
-<text x="42" y="122" class="h">Ali Alibrahimi</text>
-<text x="44" y="158" class="r">Software engineer building desktop, web and mobile apps.</text>
-<rect x="44" y="184" width="122" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/><g transform="translate(57 193) scale(0.6666666666666666)" fill="none" stroke="#93c5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z" /></g><text x="81" y="206" class="c">Full-stack</text><rect x="176.0" y="184" width="137" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/><g transform="translate(189.0 193) scale(0.6666666666666666)" fill="none" stroke="#93c5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8" />
+<rect x=".5" y=".5" width="839" height="213" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="32" y="48" class="k">SOFTWARE ENGINEER</text><text x="30" y="100" class="h">Ali Alibrahimi</text><text x="32" y="132" class="d" style="font-size:17px">I build desktop, web and mobile apps. TypeScript first, Rust when it counts.</text><rect x="794" y="36" width="8" height="8" rx="4" fill="#6ea8fe"/><g transform="translate(32 163) scale(0.6666666666666666)" fill="none" stroke="#656d76" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0" />
+  <circle cx="12" cy="10" r="3" /></g><text x="56" y="176" class="d" style="font-size:14px">San Jose, CA</text><g transform="translate(173.6 163) scale(0.6666666666666666)" fill="none" stroke="#656d76" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z" />
+  <path d="M22 10v6" />
+  <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" /></g><text x="197.6" y="176" class="d" style="font-size:14px">CS + Linguistics, SJSU</text><g transform="translate(388.2 163) scale(0.6666666666666666)" fill="none" stroke="#656d76" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8" />
   <rect width="16" height="12" x="4" y="8" rx="2" />
   <path d="M2 14h2" />
   <path d="M20 14h2" />
   <path d="M15 13v2" />
-  <path d="M9 13v2" /></g><text x="213.0" y="206" class="c">MCP + agents</text><rect x="323.2" y="184" width="213" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/><g transform="translate(336.2 193) scale(0.6666666666666666)" fill="none" stroke="#93c5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z" />
-  <path d="M22 10v6" />
-  <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" /></g><text x="360.2" y="206" class="c">CS + Linguistics, SJSU</text><rect x="546.4" y="184" width="145" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/><g transform="translate(559.4 193) scale(0.6666666666666666)" fill="none" stroke="#93c5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3" />
+  <path d="M9 13v2" /></g><text x="412.2" y="176" class="d" style="font-size:14px">MCP and agent tooling</text><g transform="translate(595.5 163) scale(0.6666666666666666)" fill="none" stroke="#656d76" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3" />
   <path d="M4 9a5 5 0 0 1 8 4 5 5 0 0 1-8-4" />
-  <path d="M5 21h14" /></g><text x="583.4" y="206" class="c">Learning Rust</text>
+  <path d="M5 21h14" /></g><text x="619.5" y="176" class="d" style="font-size:14px">Learning Rust</text>
 </svg>
