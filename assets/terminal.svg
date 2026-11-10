@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 370" width="840" height="370" role="img" aria-label="Terminal: Ali Alibrahimi, software engineer, San Jose CA">
+<style>
+.m{font:500 16px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.ti{font:500 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#64748b}
+@keyframes s{to{opacity:1}}.l0{opacity:0;animation:s .01s linear 0.40s forwards}.l1{opacity:0;animation:s .01s linear 0.95s forwards}.l2{opacity:0;animation:s .01s linear 1.50s forwards}.l3{opacity:0;animation:s .01s linear 2.05s forwards}.l4{opacity:0;animation:s .01s linear 2.60s forwards}.l5{opacity:0;animation:s .01s linear 3.15s forwards}.l6{opacity:0;animation:s .01s linear 3.70s forwards}.l7{opacity:0;animation:s .01s linear 4.25s forwards}
+.cu{opacity:0;animation:s .01s linear 4.80s forwards}.bl{animation:k 1s steps(1) infinite}@keyframes k{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="838" height="368" rx="14" fill="#0a0f1c" stroke="#1e293b" stroke-width="1.5"/>
+<path d="M1 15a14 14 0 0 1 14-14h810a14 14 0 0 1 14 14v29H1z" fill="#111827"/>
+<line x1="1" y1="44" x2="839" y2="44" stroke="#1e293b"/>
+<circle cx="26" cy="23" r="6.5" fill="#ff5f57"/><circle cx="48" cy="23" r="6.5" fill="#febc2e"/><circle cx="70" cy="23" r="6.5" fill="#28c840"/>
+<text x="420.0" y="28" text-anchor="middle" class="ti">ali@san-jose: ~</text>
+<g class="l0"><text x="32" y="96" class="m" fill="#34d399">❯</text><text x="56" y="96" class="m" fill="#f8fafc">whoami</text></g><text x="56" y="126" class="m l1" fill="#e2e8f0">ali alibrahimi  ·  software engineer  ·  san jose, ca</text><g class="l2"><text x="32" y="156" class="m" fill="#34d399">❯</text><text x="56" y="156" class="m" fill="#f8fafc">cat stack.txt</text></g><text x="56" y="186" class="m l3" fill="#7dd3fc">typescript  react  next.js  tauri  rust  supabase  postgres</text><g class="l4"><text x="32" y="216" class="m" fill="#34d399">❯</text><text x="56" y="216" class="m" fill="#f8fafc">ls projects/</text></g><text x="56" y="246" class="m l5" fill="#86efac">semester-command/   sentinel/   salahbond/   axon/</text><g class="l6"><text x="32" y="276" class="m" fill="#34d399">❯</text><text x="56" y="276" class="m" fill="#f8fafc">cat now.txt</text></g><text x="56" y="306" class="m l7" fill="#e2e8f0">cs + linguistics @ sjsu. into mcp and agent tooling. learning rust.</text>
+<g class="cu"><text x="32" y="336" class="m" fill="#34d399">❯</text><rect class="bl" x="56" y="321" width="10" height="19" fill="#60a5fa"/></g>
+</svg>
