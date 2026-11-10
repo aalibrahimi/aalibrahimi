@@ -13,7 +13,7 @@
 
 <br />
 
-<img src="soft/strip.svg" width="100%" alt="60 public repos, 3,200+ contributions, 38-day longest streak, 53% TypeScript" />
+<img src="soft/stats.svg" width="100%" alt="60 public repos, 3,200+ contributions, 38-day longest streak, 53% TypeScript" />
 
 <br />
 
