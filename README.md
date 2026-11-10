@@ -13,6 +13,13 @@
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api?username=aalibrahimi&show_icons=true&hide_rank=true&include_all_commits=true&icon_color=a78bfa&bg_color=0d1117&border_color=30363d&title_color=60a5fa&text_color=a8b1bd&border_radius=10" height="170" alt="GitHub stats: stars, commits, pull requests, issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalibrahimi&layout=compact&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=60a5fa&text_color=a8b1bd&border_radius=10" height="170" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=aalibrahimi&background=0d1117&border=30363d&stroke=30363d&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=a8b1bd&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=656d76&border_radius=10" width="100%" alt="GitHub contribution streak" />
+
+<br />
+
 <a href="https://ali-portfolio-codewithali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/aalibrahimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.codewithali.com"><img src="https://img.shields.io/badge/CodeWithAli-0b1020?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="CodeWithAli" /></a>
