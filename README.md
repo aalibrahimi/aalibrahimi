@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="tint/hero.svg" width="100%" alt="Ali Alibrahimi, software engineer in San Jose, CA. I build desktop, web and mobile apps. CS + Linguistics at SJSU, MCP and agent tooling, learning Rust." />
+<img src="soft/hero.svg" width="100%" alt="Ali Alibrahimi, software engineer in San Jose, CA. I build desktop, web and mobile apps. CS + Linguistics at SJSU, MCP and agent tooling, learning Rust." />
 
-<a href="https://github.com/aalibrahimi/semester-command"><img src="tint/semester.svg" width="49.4%" alt="Semester Command: local-first desktop app for Canvas coursework. Tauri, React, TypeScript." /></a>
-<a href="https://github.com/aalibrahimi/Sentinal"><img src="tint/sentinel.svg" width="49.4%" alt="Sentinel: desktop stock monitor with alert rules. Rust, Alpaca, Anthropic API." /></a>
-<a href="https://github.com/aalibrahimi/SalahBond"><img src="tint/salahbond.svg" width="49.4%" alt="SalahBond: iOS prayer companion. Expo, React Native, TypeScript." /></a>
-<a href="https://github.com/aalibrahimi/cwa_takeover"><img src="tint/axon.svg" width="49.4%" alt="Axon by Takeover: MCP-native agent runtime. Next.js, MCP, Supabase." /></a>
+<a href="https://github.com/aalibrahimi/semester-command"><img src="soft/semester.svg" width="49.4%" alt="Semester Command: local-first desktop app for Canvas coursework. Tauri, React, TypeScript." /></a>
+<a href="https://github.com/aalibrahimi/Sentinal"><img src="soft/sentinel.svg" width="49.4%" alt="Sentinel: desktop stock monitor with alert rules. Rust, Alpaca, Anthropic API." /></a>
+<a href="https://github.com/aalibrahimi/SalahBond"><img src="soft/salahbond.svg" width="49.4%" alt="SalahBond: iOS prayer companion. Expo, React Native, TypeScript." /></a>
+<a href="https://github.com/aalibrahimi/cwa_takeover"><img src="soft/axon.svg" width="49.4%" alt="Axon by Takeover: MCP-native agent runtime. Next.js, MCP, Supabase." /></a>
 
 <br />
 
@@ -13,8 +13,8 @@
 
 <br />
 
-<a href="https://ali-portfolio-codewithali.vercel.app"><img src="tint/link-portfolio.svg" width="32.6%" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/aalibrahimi"><img src="tint/link-linkedin.svg" width="32.6%" alt="LinkedIn" /></a>
-<a href="https://www.codewithali.com"><img src="tint/link-cwa.svg" width="32.6%" alt="CodeWithAli" /></a>
+<a href="https://ali-portfolio-codewithali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aalibrahimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.codewithali.com"><img src="https://img.shields.io/badge/CodeWithAli-0b1020?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="CodeWithAli" /></a>
 
 </div>
